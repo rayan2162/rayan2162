@@ -1,69 +1,120 @@
-### Hi there,I'm [Amirul Islam][website] passionate Sr. Software Engineer, DevOps Enthusiast 👋
+# hello world, I'm Rayan! 👋
+
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Web+Developer;Software+Engineer;Laravel+Developer;Problem+Solver;)](https://git.io/typing-svg)
+
+</div>
+
+## 🚀 About Me
+
+I'm a passionate Web and Software Engineer with a strong focus on building robust, scalable systems. With hands-on experience in developing websites, web applications, and software solutions, I'm currently advancing toward my goal of becoming a Software Solution Architect. I thrive on exploring modern technologies, solving complex problems, and actively contributing to the developer community.
+
+- 🔭 Currently working with **PHP (Laravel)**, , **Bootstrap**,**tailwind**, and  **cPanel**
+- 🌱 Learning and mastering **Node.js**, **React.js**
+- 🎯 2025 Goals: Deep dive into **Leetcode**, **System Design**, and **Advance Software Engineering Concepts**
+- ⚡ Passion: Exploring latest technologies and sharing knowledge through writing
+- 📧 Email: [2162.rayanul.kader.chowdhury@gmail.com@gmail.com](mailto:2162.rayanul.kader.chowdhury@gmail.com)
+
+## 💻 Tech Stack
+
+### Languages
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cpp&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Frontend
+
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 
+### Database
 
-<!-- ### <img src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="20"/> I'm a 😍 LAMP stack Lover 😍 -->
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-- 🌱 I'm currently working with **PHP(Laravel)**, **Node.js**, **Golang**, **React.js**, **Docker**, **Kubernetes (K8s)**, and **AWS**.  
-- 🚀 I'm also focused on building my expertise to become a **Software Solution Architect**.
-- 🥅 2025 Goals: <b style="color: green"> </b> <b>DevOps <b>,Distributed Architecture & Open source contribution</b>
-- ⚡Interest: I love to explore latest technolgies 
-- 📧 Email:amirulcse03@gmail.com 
--  Medium : https://medium.com/@amirswe
-<!-- <table style="border:5px red;color:red;display:none;">
- <tr border="0">
-  <td border="0"> </td>
-    <td border="0"> <img src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" /></td>
- </tr>
-</table> -->
+### Deployment
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Amir-16&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amir-16&layout=compact&langs_count=7&theme=tokyonight"/>
-<!-- 
-### <img src="https://c.tenor.com/9q2hehDWaQYAAAAi/sending-love-cute.gif" width="50"> Connect with me: ![Profile Views ](https://komarev.com/ghpvc/?username=Amir-16&label=Profile%20Views&color=3cb480) -->
-
-<!-- [![LinkedIn Connect](https://img.shields.io/badge/Connect_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https:7/)
-[![Medium Follow](https://img.shields.io/badge/Blogs-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/)
-[![Stack Over Flow](https://img.shields.io/badge/Questions-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/)
-[![Hackerrank Profile](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://hackerrank.com/)
-<br /> -->
+![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white)
 
 
-### <img src="https://c.tenor.com/U45Q8YaJzBUAAAAC/moti-hearts.gif" width="50"> Languages and Tools:
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-[<img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
+## 📊 GitHub Statistics
+
+<div align="center">
+  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rayan2162&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&border_radius=8)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+  
+![Rayan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rayan2162&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+</div>
+
+<div align="center">
+  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rayan2162&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
+</div>
+
+## 📈 Contribution Graph
+
+<div align="center">
+  
+[![Rayan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rayan2162&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+## 🎯 Current Focus
+
+- [] Mastering Node.js and React.js
+- [] Deep dive into Leetcode challenges
+- [] Exploring System Design concepts
+- [] Advancing Software Engineering skills
+- [] Sharing knowledge through writing and community contributions
 
 
-[<img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
-[<img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
-[<img align="left" alt="typescript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />][reduxplaylist]
+## 🤝 Connect With Me
 
-[<img align="left" alt="Vue JS" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />][vueplaylist]
+<div align="center">
 
-[<img align="left" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][webdevplaylist]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayanul-kader-chowdhury/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:2162.rayanul.kader.chowdhury@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)]()
 
-[<img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][mysql]
+</div>
 
-[<img align="left" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][nodeplaylist]
+## 💡 Profile Views
 
-[<img align="left" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" />][laravelplaylist]
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=rayan2162&color=blueviolet&style=for-the-badge)
 
+</div>
 
+---
 
-[banner]: https://media-exp1.licdn.com/dms/image/C5616AQHQz0FrV4bLEQ/profile-displaybackgroundimage-shrink_350_1400/0/1623739764608?e=1635984000&v=beta&t=l0lyl6NmBRwIvF1pm_4C9lmYMq-7J1obJ812lY3XAtk
-[office]: https://www.linkedin.com/company/sayburgh-solution
-[website]: https://Amir-16-mc.web.app
-[twitter]: https://twitter.com/Amir-16mc
-[linkedin]: https://linkedin.com/in/Amir-16
-[webdevplaylist]: https://github.com/Amir-16?tab=repositories
-[jsplaylist]: https://github.com/Amir-16?tab=repositories&q=js
-[cssplaylist]: https://github.com/Amir-16?tab=repositories&q=css
-[reactplaylist]: https://github.com/Amir-16?tab=repositories&q=react
-[reduxplaylist]: https://github.com/Amir-16?tab=repositories&q=redux
-[vueplaylist]: https://github.com/Amir-16?tab=repositories&q=vue
-[nodeplaylist]: https://github.com/Amir-16?tab=repositories&q=node
-[laravelplaylist]: https://github.com/Amir-16?tab=repositories&q=laravel
-[mysql]: https://github.com/Amir-16?tab=repositories&q=mysql
-[golangplaylist]:https://github.com/Amir-16?tab=repositories&q=golang
-[awsplaylist]:https://github.com/Amir-16?tab=repositories&q=aws
+<div align="center">
+  
+### 💼 Open for opportunities and collaborations!
+
+**"Exploring everything."**
+
+⭐️ From [Amirul Islam](https://github.com/rayan2162)
+
+</div>
