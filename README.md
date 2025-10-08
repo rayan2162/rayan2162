@@ -10,11 +10,11 @@
 
 I'm a passionate Web and Software Engineer with a strong focus on building robust, scalable systems. With hands-on experience in developing websites, web applications, and software solutions, I'm currently advancing toward my goal of becoming a Software Solution Architect. I thrive on exploring modern technologies, solving complex problems, and actively contributing to the developer community.
 
-- 🔭 Currently working with **PHP (Laravel)**, , **Bootstrap**,**tailwind**, and  **cPanel**
+- 🔭 Currently working with **PHP (Laravel)**, **Bootstrap**,**tailwind**, and  **cPanel**
 - 🌱 Learning and mastering **Node.js**, **React.js**
 - 🎯 2025 Goals: Deep dive into **Leetcode**, **System Design**, and **Advance Software Engineering Concepts**
 - ⚡ Passion: Exploring latest technologies and sharing knowledge through writing
-- 📧 Email: [2162.rayanul.kader.chowdhury@gmail.com@gmail.com](mailto:2162.rayanul.kader.chowdhury@gmail.com)
+- 📧 Email: [2162.rayanul.kader.chowdhury@gmail.com](mailto:2162.rayanul.kader.chowdhury@gmail.com)
 
 ## 💻 Tech Stack
 
@@ -28,7 +28,6 @@ I'm a passionate Web and Software Engineer with a strong focus on building robus
 ### Frontend
 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Backend
@@ -82,11 +81,11 @@ I'm a passionate Web and Software Engineer with a strong focus on building robus
 
 ## 🎯 Current Focus
 
-- [] Mastering Node.js and React.js
-- [] Deep dive into Leetcode challenges
-- [] Exploring System Design concepts
-- [] Advancing Software Engineering skills
-- [] Sharing knowledge through writing and community contributions
+- [ ] Mastering Node.js and React.js
+- [ ] Deep dive into Leetcode challenges
+- [ ] Exploring System Design concepts
+- [ ] Advancing Software Engineering skills
+- [ ] Sharing knowledge through writing and community contributions
 
 
 ## 🤝 Connect With Me
@@ -115,6 +114,6 @@ I'm a passionate Web and Software Engineer with a strong focus on building robus
 
 **"Exploring everything."**
 
-⭐️ From [Amirul Islam](https://github.com/rayan2162)
+⭐️ From [Rayanul Kader Chowdhury](https://github.com/rayan2162)
 
 </div>
